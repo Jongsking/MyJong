@@ -12,16 +12,10 @@ _斜体_
 __粗体__
 
 
-+ 无序列表1
-+ 无序列表2
-+ 无序列表3
-
-
 1. 有序列表
 2. 有序列表
 3. 有序列表
 
-[link]: http://www.cnblogs.com/hnrainll/p/3514637.html
++ [link](http://www.cnblogs.com/hnrainll/p/3514637.html)
 
-[^脚注]: hi
 
